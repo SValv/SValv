@@ -8,7 +8,7 @@ I study Psychology, Economics and Data Science at the Paris-Lodron University in
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on lots of stuff - mostly my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP
+- 🔭 I’m currently working on lots of stuff - mostly my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP.
 - 🌱 I’m currently learning more about AWS and Cloud computing 
 - 👯 I’m looking to collaborate on anything i can learn something from
 - 🤔 I’m looking for help with [this Problem](https://github.com/rstudio/bookdown/issues/1093). If you are an expert in RBookdown and R-leaflet help would be appreciated 
