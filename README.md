@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [this Problem](https://github.com/rstudio/bookdown/issues/1093). If you are an expert in RBookdown and R-leaflet help would be appreciated 
 - 💬 Ask me about anything nerdy and im probably in - big fan of LOTR and other Fantasy stuff
 - 📫 How to reach me: Just write me a Mail on s.valverde146@gmail.com or over [linkedin][linkedin]
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Im born in Augsburg, Germany - so there is nothing funny about me since we don't have humor
 
 
 ### My Linkedin and other Links:
