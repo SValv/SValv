@@ -2,12 +2,6 @@
 
 I study Psychology, Economics and Data Science at the Paris-Lodron University in Salzburg. My main interest lies in the field of statistics/Data Science and i love programming (how unique for a Data Scientist) in R and Python. I currently work for Amazon.
 
-<!--
-**SValv/SValv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on lots of stuff - mostly my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP.
 - 🌱 I’m currently learning more about AWS and Cloud computing 
 - 👯 I’m looking to collaborate on anything i can learn something from
@@ -16,10 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Just write me a Mail on s.valverde146@gmail.com or over [linkedin][linkedin]
 - ⚡ Fun fact: Im born in Augsburg, Germany - so there is nothing funny about me since we don't have humor
 
-
 ### My Linkedin and other Links:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SValvLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,7 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SQLServer" width="26px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Shiny" width="26px" src="https://www.pngkey.com/detail/u2q8i1u2t4t4o0w7_r-shiny-logo/" />
+<img align="left" alt="Shiny" width="26px" src="https://i0.wp.com/www.jumpingrivers.com/wp-content/uploads/2019/02/small-RStudio-logos-Shiny.jpg?w=578&ssl=1" />
 <img align="left" alt="QT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
