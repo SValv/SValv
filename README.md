@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my Profile 😄
+
+I study Psychology, Economics and Data Science at the Paris-Lodron University in Salzburg. My main interest lies in the field of statistics/Data Science and i love programming (how unique for a Data Scientist) in R and Python. I currently work for Amazon.
 
 <!--
 **SValv/SValv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
