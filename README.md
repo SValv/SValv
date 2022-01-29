@@ -5,7 +5,6 @@ I study Psychology, Economics and Data Science at the Paris-Lodron University in
 - 🔭 I’m currently working on lots of stuff - mostly my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP.
 - 🌱 I’m currently learning more about AWS and Cloud computing 
 - 👯 I’m looking to collaborate on anything I can learn something from
-- 🤔 I’m looking for help with [this Problem](https://github.com/rstudio/bookdown/issues/1093). If you are an expert in RBookdown and R-leaflet help would be appreciated 
 - 💬 Ask me about anything nerdy and I'm probably in - big fan of LOTR and other Fantasy stuff
 - 📫 How to reach me: Just write me a Mail on s.valverde146@gmail.com or over [linkedin][linkedin]
 - ⚡ Fun fact: I'm born in Augsburg, Germany - so there is nothing funny about me since we don't have humor
