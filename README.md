@@ -3,8 +3,7 @@
 I study Psychology, Economics and Data Science at the Paris-Lodron University in Salzburg. My main interest lies in the field of statistics/Data Science and I love programming (how unique for a Data Scientist) in R and Python. I currently work for Amazon.
 
 - 🔭 I’m currently working on a startup - updates will follow soon
-- I worked on my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP.
-- 🌱 I’m currently learning more about AWS and Cloud computing 
+- 🌱 I worked on my own little "Pen and Paper" Game [Orbis Astea](https://svalv.github.io/Orbis/index.html) and on automating the Work environment of my Team. I also do a lot of automatic Reporting using NLP.
 - 👯 I’m looking to collaborate on anything I can learn something from
 - 💬 Ask me about anything nerdy and I'm probably in - big fan of LOTR and other Fantasy stuff
 - 📫 How to reach me: Just write me a Mail on s.valverde146@gmail.com or over [linkedin][linkedin]
